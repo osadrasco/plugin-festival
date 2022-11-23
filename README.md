@@ -1,1 +1,2 @@
 # festival
+# plugin-festival
